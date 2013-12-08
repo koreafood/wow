@@ -1,8 +1,6 @@
-<<<<<<< HEAD
+
 // Generated on 2013-12-08 using generator-angular-fullstack 1.0.1
-=======
-// Generated on 2013-12-07 using generator-angular-fullstack 1.0.1
->>>>>>> 5e04d13570c89095406f6c5d8eef13037cb41ec3
+
 'use strict';
 
 // # Globbing
